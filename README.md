@@ -1,1 +1,1 @@
-# notes and codes on Structure and Interpretation of Computer Programming
+# notes and codes on Structure and Interpretation of Computer Programs
